@@ -1,2 +1,0 @@
-# vize
-vize ara sınav
